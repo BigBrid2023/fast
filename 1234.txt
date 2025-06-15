@@ -157,3 +157,4 @@ hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#%F0%9F%
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?encryption=none&security=none&type=ws&host=QW.VU6d72nt9y.zULaiR.orG.&path=%2F%3Fed%3D2048#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B02%20%7C%20%E2%AC%87%EF%B8%8F%206.1MB%2Fs
 trojan://6aaaf4f4-be44-11ed-a8bf-f23c91cfbbc9@83157169-sxr340-syuosn-1mffg.cu.plebai.net:15229?security=tls&sni=83157169-sxr340-syuosn-1mffg.cu.plebai.net&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD8%20%7C%20%E2%AC%87%EF%B8%8F%203.6MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZTZlOTMzYi04ODc0LTRiZjQtYTM4NC0wZGUyMTZlZjJiZjQ%3D@pr.fastsoonlink.com:40030#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B01%20%7C%20%E2%AC%87%EF%B8%8F%203.2MB%2Fs
+hysteria2://dongtaiwang.com@108.181.5.130:4710?sni=apple.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%204.3MB%2Fs
